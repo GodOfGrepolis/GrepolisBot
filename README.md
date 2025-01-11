@@ -46,3 +46,5 @@
 - Automatic stock exchange system
 
 ************* If you want to purchase the software, please contact DC: godofgrepolis
+
+https://discord.gg/RdFtra5W
