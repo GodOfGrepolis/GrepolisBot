@@ -27,24 +27,24 @@
 ************* Bot for Grepolis 
 ************* Standard version
 
-Automatic collection of raw materials (possibility to set the collection period)
-Automatic clicking of culture points (possibility to set the period)
-Automatic city building system (individual scheme for each city)
-A system for making fakes 24/7 from the planner system.
-Automatic retreat of units before attacking.
-Fully functional game window when using the BOTA - allows free play and preview
+- Automatic collection of raw materials (possibility to set the collection period)
+- Automatic clicking of culture points (possibility to set the period)
+- Automatic city building system (individual scheme for each city)
+- A system for making fakes 24/7 from the planner system.
+- Automatic retreat of units before attacking.
+- Fully functional game window when using the BOTA - allows free play and preview
 
 
 ************* Premium version
 
-All features above
-Discord with notifications about attacks on cities (In the case of a colony ship, tags users and adds "CS" to the message)
+- All features above
+- Discord with notifications about attacks on cities (In the case of a colony ship, tags users and adds "CS" to the message)
 
 
 ************* Work in progress
 
-Automatic recruitment system
-Synchro system
-Automatic stock exchange system
+- Automatic recruitment system
+- Synchro system
+- Automatic stock exchange system
 
 ************* If you want to purchase the software, please contact DC: godofgrepolis
