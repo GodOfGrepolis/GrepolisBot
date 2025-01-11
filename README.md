@@ -21,7 +21,7 @@
 - System automatycznej giełdy
 
 
-************* W przypadku chęci zakupu oprogramowania zapraszam do kontaktu DC: maniek04865
+************* W przypadku chęci zakupu oprogramowania zapraszam do kontaktu DC: godofgrepolis
 
 
 ************* Bot for Grepolis 
@@ -47,4 +47,4 @@ Automatic recruitment system
 Synchro system
 Automatic stock exchange system
 
-************* If you want to purchase the software, please contact DC: maniek04865
+************* If you want to purchase the software, please contact DC: godofgrepolis
